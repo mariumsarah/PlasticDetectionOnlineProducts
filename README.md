@@ -14,7 +14,7 @@ Knowing that majority of the plastic thrown away in recycle bins ends up in land
 ## Installation
 Make sure you have [Python 3](https://www.python.org/downloads/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
 
-Make sure to install ``beautifulSoup`` to use ``1_WebScrapingAmazon.py`` to scrape Product information from python. Copy the following command to install ``beautifulsoup``
+Make sure to install ``beautifulSoup`` to run `1_WebScrapingAmazon.py` to scrape Product information from python. Copy the following command to install ``beautifulsoup``
 ```Python
 pip install bs4
 ```
