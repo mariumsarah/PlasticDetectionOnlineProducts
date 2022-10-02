@@ -7,7 +7,7 @@ Knowing that majority of the plastic thrown away in recycle bins ends up in land
 ## **The paper titled "Environmental Impact of Online Products" is available here [click here](docs/Environmental Imact of Online Products.docx)** ##
 
 ### **The inner workings of the program from input to output is highlighted here** ###
-<img src="https://github.com/mariumsarah/PlasticProductDetection/docs/worflow.png" width="250" height="auto" alt="image-detection icon"/>
+<img src="https://github.com/mariumsarah/PlasticDetectionOnlineProducts/docs/worflow.png" width="250" height="auto" alt="image-detection icon"/>
 
 <br/>
 
