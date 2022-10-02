@@ -4,10 +4,10 @@ The focus of this project is to estimate the level of plastic content in Amazon 
 <br/>
 
 Knowing that majority of the plastic thrown away in recycle bins ends up in landfill, over 78% customers (surveyed by GreenPrint) hope to find eco-friendly products however they have a difficult time identifying them. This project will help customers compare similar products based on their plastic content and the manufacturing brand’s environmental impact.
-# **The paper titled "Environmental Impact of Online Products" is available here [click here](https://github.com/mariumsarah/PlasticDetectionOnlineProducts/docs/EnvironmentalImactofOnlineProducts.docx/)** #
+### **The paper titled "Environmental Impact of Online Products" is available here [click here](https://github.com/mariumsarah/PlasticDetectionOnlineProducts/docs/EnvironmentalImactofOnlineProducts.docx/)** ###
 
 ### **The inner workings of the program from input to output is highlighted here** ###
-<img src="https://github.com/mariumsarah/PlasticDetectionOnlineProducts/docs/worflow.png" width="250" height="auto" alt="image-detection icon"/>
+<img src="https://github.com/mariumsarah/PlasticDetectionOnlineProducts/blob/main/docs/workflow.png" width="250" height="auto" alt="image-detection icon"/>
 
 <br/>
 
